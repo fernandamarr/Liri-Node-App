@@ -1,6 +1,14 @@
 # LIRI Bot
 
+The Language Interpretation and Recognition Interface, also known as **LIRI**, is a command line node app that takes in parameters and gives you back data.
+
+With it, you can search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+
+![liri-example](./images/liri-example.png)
+
+## Table of Contents
 - [LIRI Bot](#liri-bot)
+  - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
   - [Getting Started](#getting-started)
     - [Clone the Repository](#clone-the-repository)
@@ -10,12 +18,6 @@
     - [Get API keys](#get-api-keys)
   - [How It Works](#how-it-works)
   - [Technologies Used](#technologies-used)
-
-The Language Interpretation and Recognition Interface, also known as **LIRI**, is a command line node app that takes in parameters and gives you back data.
-
-With it, you can search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
-
-![liri-example](./images/liri-example.png)
 
 ## Demo
 
