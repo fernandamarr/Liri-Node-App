@@ -4,7 +4,7 @@ The Language Interpretation and Recognition Interface, also known as **LIRI**, i
 
 With it, you can search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
-![liri-example](./images/liri-example.png)
+![liri-gif](./images/liri-gif.gif)
 
 **Table of Contents**
 
@@ -39,7 +39,7 @@ cd liri-node-app
 
 ### Install Node.js
 
-Install Node.js: https://nodejs.org/en/
+Install [Node.js](https://nodejs.org/en/)
 
 ### Install npm packages
 
@@ -51,12 +51,12 @@ Run this command to install the packages
 npm install
 ```
 
-* Axios npm package: https://www.npmjs.com/package/axios - used to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
+* [Axios npm package](https://www.npmjs.com/package/axios) - used to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
 
-* Request npm package: https://www.npmjs.com/package/request
-* DotEnv npm package: https://www.npmjs.com/package/dotenv
-* Moment.js npm package: https://www.npmjs.com/package/moment
-* Spotify npm package: https://www.npmjs.com/package/node-spotify-api
+* [Request npm package](https://www.npmjs.com/package/request)
+* [DotEnv npm package](https://www.npmjs.com/package/dotenv)
+* [Moment.js npm package](https://www.npmjs.com/package/moment)
+* [Spotify npm package](https://www.npmjs.com/package/node-spotify-api)
 
 ### Create .env file
 
