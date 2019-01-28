@@ -20,7 +20,7 @@ var spotify = new Spotify(keys.spotify);
 // Require Moment.js
 var moment = require("moment");
 
-// User command and input
+// User command and input 
 var command = process.argv[2];
 var input = process.argv.slice(3).join(" ");
 

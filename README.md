@@ -1,6 +1,17 @@
 # LIRI Bot
 
-The Language Interpretation and Recognition Interface, also known as LIRI, is a command line node app that takes in parameters and gives you back data.
+- [LIRI Bot](#liri-bot)
+  - [Demo](#demo)
+  - [Getting Started](#getting-started)
+    - [Clone the Repository](#clone-the-repository)
+    - [Install Node.js](#install-nodejs)
+    - [Install npm packages](#install-npm-packages)
+    - [Create .env file](#create-env-file)
+    - [Get API keys](#get-api-keys)
+  - [How It Works](#how-it-works)
+  - [Technologies Used](#technologies-used)
+
+The Language Interpretation and Recognition Interface, also known as **LIRI**, is a command line node app that takes in parameters and gives you back data.
 
 With it, you can search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
@@ -8,17 +19,11 @@ With it, you can search Spotify for songs, Bands in Town for concerts, and OMDB 
 
 ## Demo
 
-Video: 
+Video: https://www.youtube.com/watch?v=0Mr0VsNBRNE
 
-## Getting Started:
+## Getting Started
 
 To get started with LIRI, follow these steps:
-
-1. Clone the repository
-2. Install Node.js
-3. Install npm packages
-4. Create .env file
-5. Get Spotify API key
 
 ### Clone the Repository
 
@@ -38,7 +43,7 @@ Install Node.js: https://nodejs.org/en/
 
 The following npm packages are dependencies to the project. Install the packages after navigating to liri-node-app to run LIRI from your command line.
 
-Run this command to install the packages 
+Run this command to install the packages
 
 ```js
 npm install
@@ -70,7 +75,7 @@ To run LIRI, obtain the Spotify API keys:
 
 * Go to https://developer.spotify.com/dashboard/login and log-in or create an account.
 * Click on **CREATE AN APP**, fill in the required information, and click complete.
-* Copy the **Client ID** and **Client Secret** values and paste them in your .env file - replace the placeholders.
+* Copy the **Client ID** and **Client Secret** values and paste them in your .env file by replacing the placeholders.
 
 ## How It Works
 
