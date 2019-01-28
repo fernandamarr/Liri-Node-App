@@ -6,9 +6,9 @@ With it, you can search Spotify for songs, Bands in Town for concerts, and OMDB 
 
 ![liri-example](./images/liri-example.png)
 
-## Table of Contents
+**Table of Contents**
+
 - [LIRI Bot](#liri-bot)
-  - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
   - [Getting Started](#getting-started)
     - [Clone the Repository](#clone-the-repository)
@@ -87,12 +87,12 @@ To see LIRI in action, run one of the following 4 commands by using this syntax:
 node liri.js command "arguments"
 ```
 
-| Commands | What they do |
------------- | -------------
-spotify-this | Shows song's name, a preview link from Spotify, and the album. If no song is provided, "The Sign" by Ace of Base is displayed as default.
-movie-this | Shows movie information. If no movie is typed in, data for the movie 'Mr. Nobody' is displayed as default.
-concert-this | Search the Bands in Town Artist Events API for an artist and render information about the event.
-do-what-it-says | Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+| Commands        | What they do                                                                                                                              |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| spotify-this    | Shows song's name, a preview link from Spotify, and the album. If no song is provided, "The Sign" by Ace of Base is displayed as default. |
+| movie-this      | Shows movie information. If no movie is typed in, data for the movie 'Mr. Nobody' is displayed as default.                                |
+| concert-this    | Search the Bands in Town Artist Events API for an artist and render information about the event.                                          |
+| do-what-it-says | Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.                 |
 
 ## Technologies Used
 
